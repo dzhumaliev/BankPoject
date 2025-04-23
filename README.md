@@ -30,3 +30,4 @@ Balance
 Cash/online
 
 
+admin:  IsakDzh  
